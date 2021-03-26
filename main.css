@@ -1,0 +1,18 @@
+@font-face {
+    font-family: "GT Alpina";
+    src: url("./assets/GT-Alpina-Extended-Medium-Trial.woff2") format("woff2");
+}
+
+body {
+    font-family: "GT Alpina", sans-serif;
+    background-color: rgb(255, 200, 200);
+    
+}
+
+.message.big {
+    font-size: 8rem;
+}
+
+.new-message {
+    color: rgb(140, 48, 245);
+}
